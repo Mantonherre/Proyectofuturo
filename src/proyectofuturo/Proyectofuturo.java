@@ -1,5 +1,5 @@
 package proyectofuturo;
-
+//MANUEL ANTON HERRERIAS
 public class Proyectofuturo {
     
     public static String veredicto (String valor1, String valor2) {
